@@ -5,7 +5,7 @@
     "description": "Api to storage and retrieve contacts",
     "version": "1.0.0"
   },
-  "host": "https://project1-zu4w.onrender.com/contacts",
+  "host": "project1-zu4w.onrender.com/contacts",
   "basePath": "/",
   "schemes": [
     "http"
