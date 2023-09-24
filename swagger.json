@@ -8,7 +8,8 @@
   "host": "project1-zu4w.onrender.com/contacts",
   "basePath": "/",
   "schemes": [
-    "http"
+    "http",
+    "https"
   ],
   "paths": {
     "/": {
